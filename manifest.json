@@ -1,0 +1,21 @@
+{
+    "name": "Ahmad Rizal",
+    "short_name": "Rizal",
+    "description": "Portofolio Ahmad Rizal",
+    "lang": "en-US",
+    "dir": "ltr",
+    "theme_color": "#414f57",
+    "start_url": ".",
+    "background_color": "#000",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "icons": [{
+      "src": "icons-192.png",
+      "sizes": "72x72",
+      "type": "image/png"
+     }, {
+      "src": "icons-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+     }]
+   }
